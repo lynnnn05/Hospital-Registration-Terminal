@@ -5,7 +5,7 @@
 ![Data Structure](https://img.shields.io/badge/Data_Structure-FIFO_Queue-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-> **Course Project:** COMP2090SEF / 8090SEF Data Structures, Algorithms and Problem Solving  
+> **Course Project:** COMP2090SEF Data Structures, Algorithms and Problem Solving  
 > **Task 1:** OOP-based Application Development  
 
 An enterprise-grade, Object-Oriented IoT energy management dashboard designed to solve real-world energy waste problems within the Hong Kong Metropolitan University (HKMU) campus. It simulates a localized Edge AI node that manages various campus devices, calculates dynamic power consumption, and executes asynchronous tasks via a FIFO Command Queue.
