@@ -13,8 +13,7 @@ An enterprise-grade, Object-Oriented IoT energy management dashboard designed to
 ---
 
 
-##Task 1:## OOP-based Application Development  
-## 📑 Table of Contents
+ ## 📑 Table of Contents
 1. [Problem Definition & Motivation](#-1-problem-definition--motivation)
 2. [Key Features](#-2-key-features)
 3. [Object-Oriented Architecture (Rubric Mapping)](#-3-object-oriented-architecture-rubric-mapping)
