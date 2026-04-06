@@ -46,7 +46,7 @@ An integrated software solution designed to modernize public healthcare logistic
 ```
 
 ---
-
+<a id="task-1-smart-hospital-triage--queue-scheduling-engine"></a>
 ## Task1: 🏥 Smart Hospital: Triage & Queue Scheduling Engine
 
 An OOP-driven hospital triage simulation and queue management terminal. It demonstrates advanced software design patterns by implementing a **multi-dimensional, dynamic priority scheduling algorithm**, robust polymorphic service definitions, and a real-time fault-tolerant event loop.
@@ -81,7 +81,7 @@ To mirror real-world hospital challenges, the system includes a stochastic event
 
 ---
 
-### 📂 Project Structure
+### 📂 Task1 Structure
 
 * `interfaces.py`: Defines the **Abstract Data Type (ADT)** contract.
 * `doctor.py`: Implements **Inheritance** and **Polymorphism** for medical staff.
@@ -90,6 +90,7 @@ To mirror real-world hospital challenges, the system includes a stochastic event
 * `ui.py`: The **View Layer** handling the Tkinter GUI and event orchestration.
 * `main.py`: The **Bootloader** that initializes the system.
 
+<a id="task-2-smart-ambulance-navigator-self-study-algorithm"></a>
 ## 🚑 Task 2: Smart Ambulance Navigator (Self-Study Algorithm)
 
 **Objective:** To self-study and implement an advanced Data Structure and Algorithm (strictly beyond the lecture syllabus) to solve a real-world routing problem.
@@ -114,7 +115,7 @@ When dispatching ambulances to hospitals, standard linear data structures cannot
 ![Task 2 Demo](Task2/docs/screenshot.png) *(Please upload your Task 2 GUI screenshot here)*
 
 ---
-
+<a id="quick-start--usage"></a>
 ## 💻 Quick Start & Usage
 
 **1. Prerequisites**
@@ -136,6 +137,6 @@ python app_gui.py
 *(Usage: Click the dispatch button to visualize Dijkstra's algorithm actively routing the ambulance around high-weight traffic traps to find the global optimum.)*
 
 ---
-
+<a id="academic-declaration"></a>
 ## 📜 Academic Declaration
 We declare that this project is our original work and has been developed strictly for academic assessment purposes for the COMP2090SEF course.
