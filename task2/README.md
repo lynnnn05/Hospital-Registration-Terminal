@@ -91,7 +91,7 @@ To mirror real-world hospital challenges, the system includes a stochastic event
 * `main.py`: The **Bootloader** that initializes the system.
 
 <a id="task-2-smart-ambulance-navigator-self-study-algorithm"></a>
-## 🚑 Task 2: Smart Ambulance Navigator (Self-Study Algorithm)
+## 🚑 Task 2: Smart Ambulance Navigator (Self-Study)
 
 **Objective:** To self-study and implement an advanced Data Structure and Algorithm (strictly beyond the lecture syllabus) to solve a real-world routing problem.
 
