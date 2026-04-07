@@ -116,7 +116,7 @@ When dispatching ambulances to hospitals, standard linear data structures cannot
 ![Task 2 Demo](Task2/docs/screenshot.png) *(Please upload your Task 2 GUI screenshot here)*
 
 ---
-<a id="quick-start--user guide"></a>
+<a id="quick-start--user-guide"></a>
 ## 💻 Quick Start & User Guide
 
 **1. Prerequisites**
