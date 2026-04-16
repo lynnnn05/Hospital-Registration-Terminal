@@ -104,7 +104,7 @@ To mirror real-world hospital challenges, the system includes a stochastic event
 
 <a id="task-2-introduction-video"></a>
 ### 🎬 Introduction Video (Click the image below to watch the introduction video)
-Welcome to the **HK Smart Ambulance Navigator**. Click the image below to watch our 5-minute project demonstration and algorithm walkthrough:
+Welcome to the **HK Smart Ambulance Navigator**. Click the image below to watch our project demonstration and algorithm walkthrough:
 
 <div align="center">
   <a href="https://youtu.be/5L2XIRg7pQA" target="_blank">
