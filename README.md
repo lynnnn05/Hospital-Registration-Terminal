@@ -127,7 +127,7 @@ When dispatching ambulances to hospitals, standard linear data structures cannot
 | Metric | Current Implementation | Optimal Implementation (Future Work) |
 | :--- | :--- | :--- |
 | **Search Mechanism** | Standard List Traversal | Min-Priority Queue (Heap) |
-| **Time Complexity** | **O(V²)** | **O(E log V)** |
+| **Time Complexity** | **O(V²)** | **O((V+E)logV)** |
 | **Space Complexity** | **O(V + E)** | **O(V + E)** |
 
 <div align="center">
