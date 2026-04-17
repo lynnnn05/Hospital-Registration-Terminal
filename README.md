@@ -13,6 +13,7 @@ An integrated software solution designed to modernize public healthcare logistic
 ## 📑 Table of Contents
 * [📂 Repository Structure](#repository-structure)
 * [🚀 Task 1: Smart Hospital Triage & Queue Scheduling Engine](#task-1-smart-hospital-triage--queue-scheduling-engine)
+* [🎬 Task 1:Introduction Video](#task-1-introduction-video)
 * [🚑 Task 2: Smart Ambulance Navigator](#task-2-smart-ambulance-navigator-self-study-algorithm)
 * [🎬 Task 2:Introduction Video](#task-2-introduction-video)
 * [💻 Quick Start & User Guide](#quick-start--user-guide)
@@ -54,6 +55,16 @@ An integrated software solution designed to modernize public healthcare logistic
 ## Task1: 🏥 Smart Hospital: Triage & Queue Scheduling Engine
 
 An OOP-driven hospital triage simulation and queue management terminal. It demonstrates advanced software design patterns by implementing a **multi-dimensional, dynamic priority scheduling algorithm**, robust polymorphic service definitions, and a real-time fault-tolerant event loop.
+
+<a id="task-1-introduction-video"></a>
+### 🎬 Introduction Video (Click the image below to watch the introduction video)
+Welcome to the **Smart Hospital: Triage & Queue Scheduling Engine**. Click the image below to watch our project demonstration:
+
+<div align="center">
+  <a href="https://youtu.be/fyVvRhSSxrY" target="_blank">
+    <img src="./demo_cover.png" alt="Demo Video Cover" width="800">
+  </a>
+</div>
 
 ### 🏛️ Deep Dive: The OOP Architecture
 This system is a practical implementation of the four pillars of Object-Oriented Programming (OOP), ensuring the codebase is modular, scalable, and maintainable.
