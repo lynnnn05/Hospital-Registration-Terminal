@@ -47,6 +47,7 @@ An integrated software solution designed to modernize public healthcare logistic
  ┃ ┗ 📜 app_gui.py
  ┃ ┗ 📷 output.png
  ┗ 📷 demo_cover.png
+ ┗ 📷 task1 video.png
  ┗ 📜 README.md           
 ```
 
@@ -62,7 +63,7 @@ Welcome to the **Smart Hospital: Triage & Queue Scheduling Engine**. Click the i
 
 <div align="center">
   <a href="https://youtu.be/fyVvRhSSxrY" target="_blank">
-    <img src="./demo_cover.png" alt="Demo Video Cover" width="800">
+    <img src="./task1 video.png" alt="Demo Video Cover" width="800">
   </a>
 </div>
 
